@@ -1,0 +1,12 @@
+{
+  "id": "android-message",
+  "name": "android-message",
+  "version": "1.0.0",
+  "description": "Android Message",
+  "main": "index.js",
+  "author": "Andre Bovendorp <boveloco@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://messages.android.com/"
+  }
+}
